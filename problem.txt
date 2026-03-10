@@ -1,0 +1,14 @@
+- columns, rowns?
+- what type off?
+- missing data?
+
+
+info()
+method
+
+- number of rows and columns
+- column name
+- int64 float64 object
+- non null counts
+- memory usage of the dataframe
+

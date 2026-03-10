@@ -1,0 +1,3 @@
+- undertand the dataset
+- identify the problems
+- plan next steps
