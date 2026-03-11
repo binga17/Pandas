@@ -1,6 +1,12 @@
 import pandas as pd
 
-df = pd.read_json("simple_Data.json")
-
+data = {
+    "Name": ['Ram', 'Shyam', 'Ghanshyam'],
+    "Age": [10,20,30],
+    "City": ['Nagpur', 'Mumbai', 'Delhi']
+}
+df = pd.DataFrame(data)
 
 print("Displaiyng the info of dataset")
+
+print(df.info())
