@@ -4,6 +4,6 @@ import pandas as pd
 
 #df = pd.read_csv("/Users/binga17/Desktop/naya/Pandas/sales_data_sample.csv", encoding="latin1")
 
-#df = pd.read_excel("/Users/binga17/Desktop/naya/Pandas/SampleSuperstore.xlsx")
+df = pd.read_excel("/Users/binga17/Desktop/naya/Pandas/SampleSuperstore.xlsx")
 
 print(df)
